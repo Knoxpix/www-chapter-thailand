@@ -1,3 +1,4 @@
 ### Leaders
 
-* [Pituphong Yavirach](mailto:pituphong.yavirach@owasp.org)
+* [Kitisak Jirawannakool](mailto:jkitisak@gmail.com)
+* [Ammarit Thongthua]
